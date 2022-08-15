@@ -9,7 +9,7 @@ export default function MoreOutsite() {
         Mocht je nu nieuwsgierig zijn geworden: na de homobingo begint het <strong>Glitter B*tch</strong> feest in het pand!
         Mocht je bij de bingo geen geluk hebben, kan je het rad van fortuin een draai geven.
         Had ik al gezegd dat de feesten en borrelavond <strong>open zijn voor iedereen</strong>? Daarnaast is er wekelijks een gezellige eettafel op maandag, members only.
-        Just a few cool people and you better be one of them ✨ xx
+        Just a few cool people and you better be one of them ✨ Xoxo
       </p>
       <a href="https://outsite.nl">
         <button className="bg-pink-500 rounded-full px-6 py-3 text-white shadow-lg font-semibold flex items-center hover:bg-brand-400 text-lg mt-6 mx-auto" data-v-6beed550="">
