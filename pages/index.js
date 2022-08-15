@@ -12,7 +12,7 @@ export default function Home() {
       <div className="flex flex-col justify-center py-12">
         <BingoCard />
       </div>
-      <div className="container px-4 mb-4">
+      <div className="container px-4 mb-4 max-w-lg">
         <HomoBingo />
       </div>
       <div>
