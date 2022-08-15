@@ -32,7 +32,7 @@ function Cell({ cell, onMark, ...props }) {
           ${cell.marked ? 'bg-pink-400 text-white' : 'bg-white text-gray-800 hover:bg-pink-200 hover:text-white'}
           rounded-full text-center my-2 mx-1 font-bold text-xl
           flex items-center justify-center focus:outline-none
-          h-12 w-12
+          h-14 w-14
         `}
         onClick={() => onMark(cell.number)}
         {...props}
