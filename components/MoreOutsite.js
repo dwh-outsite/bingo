@@ -6,8 +6,7 @@ export default function MoreOutsite() {
       <Logo className="w-56 mx-auto" />
       <p>
         Wij zijn dé <strong>LHBT+ jongerenvereniging</strong> van Delft en naast de wekelijkse <strong>borrelavond op donderdag</strong> is er elk kwartaal een OUTnight: een <strong>groot themafeest</strong> waarbij het hele pand versierd word: we trekken werkelijk alles uit de kast.
-        Mocht je nu nieuwsgierig zijn geworden: na de homobingo begint het <strong>Glitter B*tch</strong> feest in het pand!
-        Mocht je bij de bingo geen geluk hebben, kan je het rad van fortuin een draai geven.
+        Mocht je nu nieuwsgierig zijn geworden: na de homobingo begint het <strong>Ready, Set, GAY!</strong> feest in het pand!
         Had ik al gezegd dat de feesten en borrelavond <strong>open zijn voor iedereen</strong>? Daarnaast is er wekelijks een gezellige eettafel op maandag, members only.
         Just a few cool people and you better be one of them ✨ Xoxo
       </p>
