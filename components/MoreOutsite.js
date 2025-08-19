@@ -6,8 +6,8 @@ export default function MoreOutsite() {
       <Logo className="w-56 mx-auto" />
       <p>
         Wij zijn dé <strong>LHBT+ jongerenvereniging</strong> van Delft en naast de wekelijkse <strong>borrelavond op donderdag</strong> is er elk kwartaal een OUTnight: een <strong>groot themafeest</strong> waarbij het hele pand versierd word: we trekken werkelijk alles uit de kast.
-        Mocht je nu nieuwsgierig zijn geworden: na de homobingo begint de <strong>Arcade Game Night</strong> in het pand! Bovendien is er woensdag vanaf 21:00 <strong>karaoke</strong> bij de <strong>PeaceOUT Party</strong>!
-        Had ik al gezegd dat de feesten en borrelavond <strong>open zijn voor iedereen</strong>? Daarnaast is er wekelijks een gezellige eettafel op maandag, members only.
+        Mocht je nu nieuwsgierig zijn geworden: na de homobingo begint de <strong>Silent Disco en Game Night</strong> in het pand! Bovendien is er woensdag vanaf 21:00 <strong>karaoke</strong> bij de <strong>Masqueerade Party</strong>!
+        Had ik al gezegd dat de feesten en borrelavond <strong>open zijn voor iedereen</strong>? Daarnaast is twee keer per week een gezellige eettafel op maandag en donderdag, members only.
         Just a few cool people and you better be one of them ✨ Xoxo
       </p>
       <a href="https://outsite.nl">
