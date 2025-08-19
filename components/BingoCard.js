@@ -46,15 +46,15 @@ export default function BingoCard() {
   const [card, setCard] = useState()
 
   useEffect(() => {
-    if (typeof(Storage) === "undefined" || window.localStorage.getItem('card') === null) {
+    if (typeof(Storage) === "undefined" || window.localStorage.getItem('card_2025') === null) {
       setCard(generateBingoCard())
     } else {
-      setCard(JSON.parse(window.localStorage.getItem('card')))
+      setCard(JSON.parse(window.localStorage.getItem('card_2025')))
     }
   }, [])
 
   useEffect(() => {
-    window.localStorage.setItem('card', JSON.stringify(card))
+    window.localStorage.setItem('card_2025', JSON.stringify(card))
   }, [card])
 
   const markCell = number => {
